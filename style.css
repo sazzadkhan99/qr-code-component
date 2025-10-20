@@ -29,7 +29,7 @@ body{
   align-items: center;
 }
 main{
-  max-width: 260rem;
+  max-width: 16.25rem;
   display: flex;
   justify-content: center;
   align-items: center;  
@@ -44,7 +44,7 @@ main{
 .card img{
   border-radius: 8px;
 }
-.card h4{
+.card h1{
   color: var(--Slate900);
   font-size: 18px;
   padding: 10px;
@@ -54,3 +54,4 @@ main{
   padding-bottom: 15px;
 
 }
+
