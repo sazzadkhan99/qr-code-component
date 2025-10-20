@@ -37,21 +37,19 @@ main{
 }
 .card{
   background-color: var(--White);
-  padding: 10px;
+  padding: .625rem;
   text-align: center;
-  border-radius: 15px;
+  border-radius: 1rem;
 }
 .card img{
-  border-radius: 8px;
+  border-radius: .5rem;
 }
 .card h1{
   color: var(--Slate900);
-  font-size: 18px;
-  padding: 10px;
+  font-size: 1.125rem;
+  padding: .625rem;
 }
 .card p{
   color: var(--Slate500);
-  padding-bottom: 15px;
-
+  padding-block-end: 1rem; /*Instead of padding-bottom */
 }
-
