@@ -33,8 +33,8 @@ Build a responsive recipe page using semantic HTML and clean CSS that matches a 
 
 ### Links
 
-- Solution URL: https://github.com/sazzadkhan99/3-column-preview-card-component
-- Live Site URL: https://sazzadkhan99.github.io/3-column-preview-card-component
+- Solution URL: https://github.com/sazzadkhan99/qr-code-component
+- Live Site URL: https://sazzadkhan99.github.io/qr-code-component
 
 ## My process
 
