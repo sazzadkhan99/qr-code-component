@@ -29,7 +29,7 @@ body{
   align-items: center;
 }
 main{
-  max-width: 260px;
+  max-width: 260rem;
   display: flex;
   justify-content: center;
   align-items: center;  
@@ -52,4 +52,5 @@ main{
 .card p{
   color: var(--Slate500);
   padding-bottom: 15px;
+
 }
